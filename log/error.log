@@ -1,0 +1,8 @@
+2021-03-16 22:23:38,219 - ERROR - util.py[:112] - error.log
+2021-03-16 22:23:38,220 - CRITICAL - util.py[:116] - critical log
+2021-03-16 22:25:42,416 - ERROR - util.py[:112] - error.log
+2021-03-16 22:25:42,417 - CRITICAL - util.py[:116] - critical log
+2021-03-16 22:25:47,434 - ERROR - util.py[:112] - error.log
+2021-03-16 22:25:47,435 - CRITICAL - util.py[:116] - critical log
+2021-03-16 22:26:14,998 - ERROR - util.py[:112] - error.log
+2021-03-16 22:26:14,999 - CRITICAL - util.py[:116] - critical log
