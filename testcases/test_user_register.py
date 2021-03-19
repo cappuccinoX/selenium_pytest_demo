@@ -1,19 +1,22 @@
 from selenium import webdriver
 import pytest
 from util import util
+from util.read_data import ReadData
+from util.logger import Logger
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 import allure
 from time import sleep
+from pages.userRegisterPage import UserRegisterPage
 
 @allure.feature("用户注册")
 class TestUserRegister():
     def setup_class(self):
+        self.logger = Logger().get_logger()
         self.driver = webdriver.Chrome()
-        self.driver.get("http://localhost:8080/jpress/user/register")
-        self.driver.maximize_window()
+        self.user_register_page = UserRegisterPage(self.driver)
     
     def teardown_class(self):
         self.driver.quit()
@@ -39,7 +42,7 @@ class TestUserRegister():
         WebDriverWait(self.driver, 3).until(EC.alert_is_present())
         alert = self.driver.switch_to.alert
         assert alert.text == expected
-    
+
     @pytest.mark.skip()
     @allure.story("注册成功")
     def test_register_ok(self):
@@ -66,11 +69,39 @@ class TestUserRegister():
         self.driver.find_element_by_name('confirmPwd').send_keys(confirm_pwd)
 
 
+    @pytest.mark.skip()
     def test_1(self):
         util.get_code_with_pytesseract(self.driver, "captchaimg", "id")
         # util.get_code_with_pytesseract(self.driver, "btn", "class")
 
+    @pytest.mark.parametrize("casedata", ReadData("register.json").read_json())
+    def test_register(self, casedata):
+        if (casedata["result"] != "registerSuccess"):
+            username = util.get_random_str()
+            email = '%s@qq.com' % username
+            self.user_register_page.go_to_register_page()
+            self.user_register_page.input_username(username)
+            self.user_register_page.input_email(email)
+            self.user_register_page.input_pwd(casedata["pwd"])
+            self.user_register_page.input_confirm_pwd(casedata["confirmPwd"])
+            self.user_register_page.input_captcha(casedata["captcha"])
+            self.user_register_page.click_register()
+            WebDriverWait(self.driver, 3).until(EC.alert_is_present())
+            alert = self.driver.switch_to.alert
+            alert_msg = self.driver.switch_to.alert.text
+            alert.accept()
+            assert alert_msg == casedata["expected"]
+        else:
+            print("not finish...............")
+
+    @pytest.mark.parametrize('user, pwd',
+        [
+            ('jack', 12345),
+            ('Andy', 2223)
+        ])
+    @pytest.mark.skip()
+    def test_3(self, user, pwd):
+        print('User is {user}, password is {pwd}'.format(user = user, pwd = pwd))
 
 if __name__ == "__main__":
-    # pytest.main(['test_user_register.py'])
-    print(11)
+    pytest.main(['test_user_register.py'])

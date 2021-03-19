@@ -1,0 +1,23 @@
+[
+    {
+        "result": "registerFail",
+        "pwd": "123456",
+        "confirmPwd": "1234567",
+        "captcha": "666",
+        "expected": "两次输入密码不一致"
+    },
+    {
+        "result": "registerFail",
+        "pwd": "123456",
+        "confirmPwd": "123456",
+        "captcha": "666",
+        "expected": "验证码不正确"
+    },
+    {
+        "result": "registerSuccess",
+        "pwd": "123456",
+        "confirmPwd": "123456",
+        "captcha": "666",
+        "expected": "注册成功"
+    }
+]
