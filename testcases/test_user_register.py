@@ -69,11 +69,6 @@ class TestUserRegister():
         self.driver.find_element_by_name('confirmPwd').send_keys(confirm_pwd)
 
 
-    @pytest.mark.skip()
-    def test_1(self):
-        util.get_code_with_pytesseract(self.driver, "captchaimg", "id")
-        # util.get_code_with_pytesseract(self.driver, "btn", "class")
-
     @pytest.mark.parametrize("casedata", ReadData("register.json").read_json())
     def test_register(self, casedata):
         if (casedata["result"] != "registerSuccess"):
