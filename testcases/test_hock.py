@@ -13,6 +13,7 @@ def teardown_function():
     print("\nteardown function")
 
 class Test1():
+
     @classmethod
     def setup_class(cls):
         print("\nsetup class")
@@ -38,3 +39,5 @@ class Test1():
 
     def test_2(self):
         assert 2 == 2
+
+# https://www.wjx.cn/jq/37766520.aspx 测试问卷填写

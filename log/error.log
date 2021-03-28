@@ -12,3 +12,245 @@
 2021-03-19 21:48:28,766 - CRITICAL - util.py[:117] - critical log
 2021-03-19 21:48:54,536 - ERROR - logger.py[:30] - error.log
 2021-03-19 21:48:54,536 - CRITICAL - logger.py[:34] - critical log
+2021-03-20 16:17:47,874 - ERROR - test_login.py[:24] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:39:59,424 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:39:59,795 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:39:59,948 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:40:00,093 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:40:46,511 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:40:46,645 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:40:46,733 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:40:46,881 - ERROR - test_login.py[:37] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:41:43,276 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:41:43,391 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:41:43,471 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:41:43,614 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:42:31,129 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:42:31,257 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:42:31,341 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:42:31,498 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:43:25,161 - ERROR - test_login.py[:41] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:43:25,283 - ERROR - test_login.py[:41] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:43:25,372 - ERROR - test_login.py[:41] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:43:25,471 - ERROR - test_login.py[:41] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:30,067 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:30,237 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:30,379 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:30,477 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:50,278 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:50,445 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:50,640 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:45:50,794 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 16:46:24,242 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:24,402 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:24,526 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:24,617 - ERROR - test_login.py[:39] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:40,994 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:41,109 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:41,327 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 16:46:41,470 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriver' object has no attribute 'text'
+2021-03-20 20:52:59,566 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 20:52:59,735 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 20:52:59,841 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-20 20:53:00,004 - ERROR - test_login.py[:40] - 用例'用户登录'执行报错: 'WebDriverWait' object has no attribute 'util'
+2021-03-21 10:11:37,136 - ERROR - test_contribute_articles.py[:62] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='sidebar-menu']/li[4]"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 10:13:39,477 - ERROR - test_contribute_articles.py[:63] - 用例'保存并投稿'执行报错: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 10:16:45,671 - ERROR - test_contribute_articles.py[:66] - 用例'保存并投稿'执行报错: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 10:19:31,399 - ERROR - test_contribute_articles.py[:66] - 用例'保存并投稿'执行报错: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 10:19:31,399 - ERROR - test_contribute_articles.py[:66] - 用例'保存并投稿'执行报错: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:32:08,964 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: Message: 
+
+2021-03-21 20:32:08,964 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: Message: 
+
+2021-03-21 20:45:59,938 - ERROR - test_contribute_articles.py[:55] - 用例'保存并投稿'执行报错: Message: element not interactable
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:45:59,938 - ERROR - test_contribute_articles.py[:55] - 用例'保存并投稿'执行报错: Message: element not interactable
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:47:01,102 - ERROR - test_contribute_articles.py[:54] - 用例'保存并投稿'执行报错: Message: element not interactable
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:47:01,102 - ERROR - test_contribute_articles.py[:54] - 用例'保存并投稿'执行报错: Message: element not interactable
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:49:20,469 - ERROR - test_contribute_articles.py[:57] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="article.meta_keywords"]"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:49:20,469 - ERROR - test_contribute_articles.py[:57] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="article.meta_keywords"]"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:54:02,845 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 20:54:02,845 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 20:54:49,752 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="meta_keywords"]"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:54:49,752 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="meta_keywords"]"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-21 20:56:30,361 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 20:56:30,361 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 21:00:26,125 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 21:00:26,125 - ERROR - test_contribute_articles.py[:64] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-21 21:06:16,171 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 1 positional argument but 4 were given
+2021-03-21 21:06:16,171 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 1 positional argument but 4 were given
+2021-03-23 20:49:54,417 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:49:54,417 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:53:05,094 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:53:05,094 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:54:16,268 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:54:16,268 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:55:49,602 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 20:55:49,602 - ERROR - test_contribute_articles.py[:58] - 用例'保存并投稿'执行报错: input_seo_keywords() takes 2 positional arguments but 4 were given
+2021-03-23 21:26:05,008 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: Message: invalid argument: invalid locator
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-23 21:26:05,008 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: Message: invalid argument: invalid locator
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-23 21:27:48,385 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: Message: invalid argument: invalid locator
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-23 21:27:48,385 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: Message: invalid argument: invalid locator
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-23 21:28:55,983 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: 'list' object has no attribute 'find_elements'
+2021-03-23 21:28:55,983 - ERROR - test_contribute_articles.py[:67] - 用例'保存并投稿'执行报错: 'list' object has no attribute 'find_elements'
+2021-03-23 21:34:21,364 - ERROR - test_contribute_articles.py[:68] - 用例'保存并投稿'执行报错: 'WebElement' object has no attribute 'getText'
+2021-03-23 21:34:21,364 - ERROR - test_contribute_articles.py[:68] - 用例'保存并投稿'执行报错: 'WebElement' object has no attribute 'getText'
+2021-03-23 21:51:05,124 - ERROR - test_contribute_articles.py[:74] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:51:05,124 - ERROR - test_contribute_articles.py[:74] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:53:33,259 - ERROR - test_contribute_articles.py[:75] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:53:33,259 - ERROR - test_contribute_articles.py[:75] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:54:25,125 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:54:25,125 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:56:19,305 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:56:19,305 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-23 21:57:22,925 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-23 21:57:22,925 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-23 21:58:31,185 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-23 21:58:31,185 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-27 14:34:46,466 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-27 14:34:46,466 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: assert False
+2021-03-27 14:38:25,086 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: assert False
+2021-03-27 14:38:25,086 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: assert False
+2021-03-27 14:53:45,962 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 14:53:45,962 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 14:55:00,739 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 14:55:00,739 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 14:59:59,016 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-27 14:59:59,016 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: check() missing 1 required positional argument: 'text'
+2021-03-27 15:08:40,476 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:08:40,476 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:10:52,457 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:10:52,457 - ERROR - test_contribute_articles.py[:76] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:13:29,607 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:13:29,607 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:23:55,865 - ERROR - test_contribute_articles.py[:82] - 用例'保存并投稿'执行报错: name 'message' is not defined
+2021-03-27 15:23:55,865 - ERROR - test_contribute_articles.py[:82] - 用例'保存并投稿'执行报错: name 'message' is not defined
+2021-03-27 15:25:37,052 - ERROR - test_contribute_articles.py[:84] - 用例'保存并投稿'执行报错: Message: javascript error: QbaKsTH3 is not defined
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:25:37,052 - ERROR - test_contribute_articles.py[:84] - 用例'保存并投稿'执行报错: Message: javascript error: QbaKsTH3 is not defined
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:26:35,138 - ERROR - test_contribute_articles.py[:83] - 用例'保存并投稿'执行报错: name 'message' is not defined
+2021-03-27 15:26:35,138 - ERROR - test_contribute_articles.py[:83] - 用例'保存并投稿'执行报错: name 'message' is not defined
+2021-03-27 15:28:36,894 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:28:36,894 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:29:39,890 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:29:39,890 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:30:18,946 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:30:18,946 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:31:10,348 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:31:10,348 - ERROR - test_contribute_articles.py[:78] - 用例'保存并投稿'执行报错: Message: no such element: Unable to locate element: {"method":"css selector","selector":".cke_wysiwyg_frame"}
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:31:54,929 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:31:54,929 - ERROR - test_contribute_articles.py[:79] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:33:43,343 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:33:43,343 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:35:18,886 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: Message: javascript error: Cannot read property 'innerText' of undefined
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:35:18,886 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: Message: javascript error: Cannot read property 'innerText' of undefined
+  (Session info: chrome=89.0.4389.90)
+
+2021-03-27 15:35:51,012 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:35:51,012 - ERROR - test_contribute_articles.py[:77] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:39:03,321 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:39:03,321 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:44:19,366 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: 'WebElement' object has no attribute 'getText'
+2021-03-27 15:44:19,366 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: 'WebElement' object has no attribute 'getText'
+2021-03-27 15:45:19,681 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:45:19,681 - ERROR - test_contribute_articles.py[:80] - 用例'保存并投稿'执行报错: assert None == '文章保存成功。'
+  +None
+  -'文章保存成功。'
+2021-03-27 15:49:38,843 - ERROR - test_contribute_articles.py[:75] - 用例'保存并投稿'执行报错: assert <bound method... 0x109b22610>> == '文章保存成功。'
+  +<bound method ContributeArticlesPage.get_success_message of <pages.contributeArticles.ContributeArticlesPage object at 0x109b22610>>
+  -'文章保存成功。'
+2021-03-27 15:49:38,843 - ERROR - test_contribute_articles.py[:75] - 用例'保存并投稿'执行报错: assert <bound method... 0x109b22610>> == '文章保存成功。'
+  +<bound method ContributeArticlesPage.get_success_message of <pages.contributeArticles.ContributeArticlesPage object at 0x109b22610>>
+  -'文章保存成功。'

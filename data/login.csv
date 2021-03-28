@@ -1,0 +1,5 @@
+"result","user","pwd","expected"
+"loginFail","","123456","账号不能为空"
+"loginFail","admin","","密码不能为空"
+"loginFail","admin","123","用户名或密码不正确"
+"loginSuccess","admin","123456",""

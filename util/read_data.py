@@ -13,6 +13,8 @@ class ReadData():
         data = list()
         with open(self.file_path, "r") as file:
             reader = csv.reader(file)
+            # 忽略第一行title
+            next(reader)
             for item in reader:
                 data.append(item)
         return data
@@ -24,5 +26,5 @@ class ReadData():
 
 
 if __name__ == "__main__":
-    r = ReadData("register.json")
-    print(r.read_json())
+    r = ReadData("login.csv")
+    print(r.read_csv())
