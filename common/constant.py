@@ -8,3 +8,8 @@ chrome_capabilities = {
 firefox = {}
 
 safari = {}
+
+ADMIN_TOKEN = {
+    "name": "_jpuid",
+    "value": ""
+}

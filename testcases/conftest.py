@@ -5,10 +5,16 @@ from pages.userLoginPage import UserLoginPage
 from common.constant import chrome_capabilities
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from common.constant import ADMIN_TOKEN
 
 @pytest.fixture(name = "token")
 def get_token():
     return "NTljZjRiNDliMGE1ZDIzYWI2ODE2ZDc0ZmQ4NDczNmYjMTYxNjkyNTk4ODA2OSMxNzI4MDAjTVE9PQ"
+
+@pytest.fixture(name = "admin_token", scope = "module")
+def get_admin_token():
+    print("\nfixture")
+    ADMIN_TOKEN["value"] = "ZjYyYzQxZThjN2NkM2JjOTUxNWFlNDlhMmE2MzMxY2EjMTYxNzA3NzIwMTQ0MSMxNzI4MDAjTVE9PQ=="
 
 @pytest.fixture(scope="class", name="login")
 def login():
