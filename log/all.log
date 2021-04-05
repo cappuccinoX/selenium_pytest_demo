@@ -1,9 +1,241 @@
-2021-03-28 20:06:12,574 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
-2021-03-28 20:06:13,213 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
-2021-03-28 20:06:14,137 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。
-2021-03-28 20:07:29,349 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
-2021-03-28 20:07:29,349 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
-2021-03-28 20:07:29,974 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
-2021-03-28 20:07:29,974 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
-2021-03-28 20:07:30,821 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。
-2021-03-28 20:07:30,821 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。
+2021-04-05 09:53:28,062 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:53:28,393 - INFO - 随机生成title: gbc2Jk0Q
+2021-04-05 09:53:50,822 - INFO - section lenth: 16
+2021-04-05 09:53:50,831 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:53:50,843 - INFO - 选择图标类型: text-editor
+2021-04-05 09:53:50,885 - INFO - 选择图标类型: fa-underline
+2021-04-05 09:57:03,658 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:57:03,658 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:57:03,658 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:57:03,658 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:57:03,658 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:57:03,940 - INFO - 随机生成title: cBoJsCfX
+2021-04-05 09:57:03,940 - INFO - 随机生成title: cBoJsCfX
+2021-04-05 09:57:03,940 - INFO - 随机生成title: cBoJsCfX
+2021-04-05 09:57:03,940 - INFO - 随机生成title: cBoJsCfX
+2021-04-05 09:57:03,940 - INFO - 随机生成title: cBoJsCfX
+2021-04-05 09:57:06,043 - INFO - section lenth: 16
+2021-04-05 09:57:06,043 - INFO - section lenth: 16
+2021-04-05 09:57:06,043 - INFO - section lenth: 16
+2021-04-05 09:57:06,043 - INFO - section lenth: 16
+2021-04-05 09:57:06,043 - INFO - section lenth: 16
+2021-04-05 09:57:06,050 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:57:06,050 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:57:06,050 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:57:06,050 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:57:06,050 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:57:06,058 - INFO - 选择图标类型: brand
+2021-04-05 09:57:06,058 - INFO - 选择图标类型: brand
+2021-04-05 09:57:06,058 - INFO - 选择图标类型: brand
+2021-04-05 09:57:06,058 - INFO - 选择图标类型: brand
+2021-04-05 09:57:06,058 - INFO - 选择图标类型: brand
+2021-04-05 09:57:06,100 - INFO - 选择图标类型: fa-pinterest-square
+2021-04-05 09:57:06,100 - INFO - 选择图标类型: fa-pinterest-square
+2021-04-05 09:57:06,100 - INFO - 选择图标类型: fa-pinterest-square
+2021-04-05 09:57:06,100 - INFO - 选择图标类型: fa-pinterest-square
+2021-04-05 09:57:06,100 - INFO - 选择图标类型: fa-pinterest-square
+2021-04-05 09:58:24,782 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:58:24,782 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:58:24,782 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:58:24,782 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:58:24,782 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:58:25,077 - INFO - 随机生成title: fDEgsQI3
+2021-04-05 09:58:25,077 - INFO - 随机生成title: fDEgsQI3
+2021-04-05 09:58:25,077 - INFO - 随机生成title: fDEgsQI3
+2021-04-05 09:58:25,077 - INFO - 随机生成title: fDEgsQI3
+2021-04-05 09:58:25,077 - INFO - 随机生成title: fDEgsQI3
+2021-04-05 09:58:26,895 - INFO - section lenth: 16
+2021-04-05 09:58:26,895 - INFO - section lenth: 16
+2021-04-05 09:58:26,895 - INFO - section lenth: 16
+2021-04-05 09:58:26,895 - INFO - section lenth: 16
+2021-04-05 09:58:26,895 - INFO - section lenth: 16
+2021-04-05 09:58:26,902 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:58:26,902 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:58:26,902 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:58:26,902 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:58:26,902 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:02,676 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:59:02,676 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:59:02,676 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:59:02,676 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:59:02,676 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:59:02,982 - INFO - 随机生成title: kMHAOb0v
+2021-04-05 09:59:02,982 - INFO - 随机生成title: kMHAOb0v
+2021-04-05 09:59:02,982 - INFO - 随机生成title: kMHAOb0v
+2021-04-05 09:59:02,982 - INFO - 随机生成title: kMHAOb0v
+2021-04-05 09:59:02,982 - INFO - 随机生成title: kMHAOb0v
+2021-04-05 09:59:05,004 - INFO - section lenth: 16
+2021-04-05 09:59:05,004 - INFO - section lenth: 16
+2021-04-05 09:59:05,004 - INFO - section lenth: 16
+2021-04-05 09:59:05,004 - INFO - section lenth: 16
+2021-04-05 09:59:05,004 - INFO - section lenth: 16
+2021-04-05 09:59:05,011 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:05,011 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:05,011 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:05,011 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:05,011 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:59:05,020 - INFO - 选择图标类型: form-control
+2021-04-05 09:59:05,020 - INFO - 选择图标类型: form-control
+2021-04-05 09:59:05,020 - INFO - 选择图标类型: form-control
+2021-04-05 09:59:05,020 - INFO - 选择图标类型: form-control
+2021-04-05 09:59:05,020 - INFO - 选择图标类型: form-control
+2021-04-05 10:01:46,200 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:01:46,200 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:01:46,200 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:01:46,200 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:01:46,200 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:02:41,189 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:02:41,189 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:02:41,189 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:02:41,189 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:02:41,189 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:05:29,707 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:05:29,707 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:05:29,707 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:05:29,707 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:05:29,707 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:07:57,712 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:07:57,712 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:07:57,712 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:07:57,712 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:07:57,712 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:09:40,770 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:09:40,770 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:09:40,770 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:09:40,770 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:09:40,770 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:10:02,355 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:10:02,355 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:10:02,355 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:10:02,355 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:10:02,355 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:12:20,837 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:12:20,837 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:12:20,837 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:12:20,837 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:12:20,837 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:13:09,616 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:13:09,616 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:13:09,616 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:13:09,616 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:13:09,616 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,340 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,340 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,340 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,340 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,340 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:18:00,743 - INFO - 随机生成title: XQl2CxAd
+2021-04-05 10:18:00,743 - INFO - 随机生成title: XQl2CxAd
+2021-04-05 10:18:00,743 - INFO - 随机生成title: XQl2CxAd
+2021-04-05 10:18:00,743 - INFO - 随机生成title: XQl2CxAd
+2021-04-05 10:18:00,743 - INFO - 随机生成title: XQl2CxAd
+2021-04-05 10:18:02,816 - INFO - section lenth: 16
+2021-04-05 10:18:02,816 - INFO - section lenth: 16
+2021-04-05 10:18:02,816 - INFO - section lenth: 16
+2021-04-05 10:18:02,816 - INFO - section lenth: 16
+2021-04-05 10:18:02,816 - INFO - section lenth: 16
+2021-04-05 10:18:02,822 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:18:02,822 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:18:02,822 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:18:02,822 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:18:02,822 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:18:02,830 - INFO - 选择图标类型: currency
+2021-04-05 10:18:02,830 - INFO - 选择图标类型: currency
+2021-04-05 10:18:02,830 - INFO - 选择图标类型: currency
+2021-04-05 10:18:02,830 - INFO - 选择图标类型: currency
+2021-04-05 10:18:02,830 - INFO - 选择图标类型: currency
+2021-04-05 10:18:02,866 - INFO - 选择图标类型: fa-gg
+2021-04-05 10:18:02,866 - INFO - 选择图标类型: fa-gg
+2021-04-05 10:18:02,866 - INFO - 选择图标类型: fa-gg
+2021-04-05 10:18:02,866 - INFO - 选择图标类型: fa-gg
+2021-04-05 10:18:02,866 - INFO - 选择图标类型: fa-gg
+2021-04-05 10:21:13,860 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:21:13,860 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:21:13,860 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:21:13,860 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:21:13,860 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:21:14,198 - INFO - 随机生成title: h8cTNDIX
+2021-04-05 10:21:14,198 - INFO - 随机生成title: h8cTNDIX
+2021-04-05 10:21:14,198 - INFO - 随机生成title: h8cTNDIX
+2021-04-05 10:21:14,198 - INFO - 随机生成title: h8cTNDIX
+2021-04-05 10:21:14,198 - INFO - 随机生成title: h8cTNDIX
+2021-04-05 10:21:16,593 - INFO - section lenth: 16
+2021-04-05 10:21:16,593 - INFO - section lenth: 16
+2021-04-05 10:21:16,593 - INFO - section lenth: 16
+2021-04-05 10:21:16,593 - INFO - section lenth: 16
+2021-04-05 10:21:16,593 - INFO - section lenth: 16
+2021-04-05 10:21:16,600 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:21:16,600 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:21:16,600 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:21:16,600 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:21:16,600 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:21:16,610 - INFO - 选择图标类型: chart
+2021-04-05 10:21:16,610 - INFO - 选择图标类型: chart
+2021-04-05 10:21:16,610 - INFO - 选择图标类型: chart
+2021-04-05 10:21:16,610 - INFO - 选择图标类型: chart
+2021-04-05 10:21:16,610 - INFO - 选择图标类型: chart
+2021-04-05 10:21:16,649 - INFO - 选择图标类型: fa-line-chart
+2021-04-05 10:21:16,649 - INFO - 选择图标类型: fa-line-chart
+2021-04-05 10:21:16,649 - INFO - 选择图标类型: fa-line-chart
+2021-04-05 10:21:16,649 - INFO - 选择图标类型: fa-line-chart
+2021-04-05 10:21:16,649 - INFO - 选择图标类型: fa-line-chart
+2021-04-05 10:22:27,261 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:22:27,261 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:22:27,261 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:22:27,261 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:22:27,261 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:22:27,622 - INFO - 随机生成title: ZrAUgBcJ
+2021-04-05 10:22:27,622 - INFO - 随机生成title: ZrAUgBcJ
+2021-04-05 10:22:27,622 - INFO - 随机生成title: ZrAUgBcJ
+2021-04-05 10:22:27,622 - INFO - 随机生成title: ZrAUgBcJ
+2021-04-05 10:22:27,622 - INFO - 随机生成title: ZrAUgBcJ
+2021-04-05 10:22:30,027 - INFO - section lenth: 16
+2021-04-05 10:22:30,027 - INFO - section lenth: 16
+2021-04-05 10:22:30,027 - INFO - section lenth: 16
+2021-04-05 10:22:30,027 - INFO - section lenth: 16
+2021-04-05 10:22:30,027 - INFO - section lenth: 16
+2021-04-05 10:22:30,033 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:22:30,033 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:22:30,033 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:22:30,033 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:22:30,033 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:22:30,041 - INFO - 选择图标类型: payment
+2021-04-05 10:22:30,041 - INFO - 选择图标类型: payment
+2021-04-05 10:22:30,041 - INFO - 选择图标类型: payment
+2021-04-05 10:22:30,041 - INFO - 选择图标类型: payment
+2021-04-05 10:22:30,041 - INFO - 选择图标类型: payment
+2021-04-05 10:22:30,075 - INFO - 选择图标类型: fa-credit-card
+2021-04-05 10:22:30,075 - INFO - 选择图标类型: fa-credit-card
+2021-04-05 10:22:30,075 - INFO - 选择图标类型: fa-credit-card
+2021-04-05 10:22:30,075 - INFO - 选择图标类型: fa-credit-card
+2021-04-05 10:22:30,075 - INFO - 选择图标类型: fa-credit-card
+2021-04-05 10:32:46,044 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:32:46,044 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:32:46,044 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:32:46,044 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:32:46,044 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 10:32:46,393 - INFO - 随机生成title: LYPdnkiK
+2021-04-05 10:32:46,393 - INFO - 随机生成title: LYPdnkiK
+2021-04-05 10:32:46,393 - INFO - 随机生成title: LYPdnkiK
+2021-04-05 10:32:46,393 - INFO - 随机生成title: LYPdnkiK
+2021-04-05 10:32:46,393 - INFO - 随机生成title: LYPdnkiK
+2021-04-05 10:32:48,383 - INFO - section lenth: 16
+2021-04-05 10:32:48,383 - INFO - section lenth: 16
+2021-04-05 10:32:48,383 - INFO - section lenth: 16
+2021-04-05 10:32:48,383 - INFO - section lenth: 16
+2021-04-05 10:32:48,383 - INFO - section lenth: 16
+2021-04-05 10:32:48,389 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:32:48,389 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:32:48,389 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:32:48,389 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:32:48,389 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 10:32:48,397 - INFO - 选择图标类型: text-editor
+2021-04-05 10:32:48,397 - INFO - 选择图标类型: text-editor
+2021-04-05 10:32:48,397 - INFO - 选择图标类型: text-editor
+2021-04-05 10:32:48,397 - INFO - 选择图标类型: text-editor
+2021-04-05 10:32:48,397 - INFO - 选择图标类型: text-editor
+2021-04-05 10:32:48,434 - INFO - 选择图标类型: fa-list-ul
+2021-04-05 10:32:48,434 - INFO - 选择图标类型: fa-list-ul
+2021-04-05 10:32:48,434 - INFO - 选择图标类型: fa-list-ul
+2021-04-05 10:32:48,434 - INFO - 选择图标类型: fa-list-ul
+2021-04-05 10:32:48,434 - INFO - 选择图标类型: fa-list-ul

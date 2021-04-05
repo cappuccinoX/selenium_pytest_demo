@@ -1,6 +1,7 @@
 import csv
 import os
 import json
+import xlrd
 
 class ReadData():
 
@@ -24,7 +25,16 @@ class ReadData():
             json_data = json.loads(file.read())
         return json_data
 
+    def read_excel(self):
+        data = list()
+        book = xlrd.open_workbook(self.file_path)
+        sheet = book.sheet_by_index(0)
+        # 第一行是标题, 从第二行读取
+        for row in range(1, sheet.nrows):
+            data.append(sheet.row_values(row))
+        return data
+
 
 if __name__ == "__main__":
-    r = ReadData("login.csv")
-    print(r.read_csv())
+    r = ReadData("category.xlsx")
+    print(r.read_excel())

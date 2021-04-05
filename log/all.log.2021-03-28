@@ -1,0 +1,9 @@
+2021-03-28 20:06:12,574 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
+2021-03-28 20:06:13,213 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
+2021-03-28 20:06:14,137 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。
+2021-03-28 20:07:29,349 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
+2021-03-28 20:07:29,349 - INFO - 等待:我的文章 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]")可见成功。
+2021-03-28 20:07:29,974 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
+2021-03-28 20:07:29,974 - INFO - 等待:投稿 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[2]")可见成功。
+2021-03-28 20:07:30,821 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。
+2021-03-28 20:07:30,821 - INFO - 等待:内容输入框 - 元素('class name', 'cke_wysiwyg_frame')可见成功。

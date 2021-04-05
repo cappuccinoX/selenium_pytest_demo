@@ -1,0 +1,6 @@
+2021-04-05 09:53:28,062 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-05 09:53:28,393 - INFO - 随机生成title: gbc2Jk0Q
+2021-04-05 09:53:50,822 - INFO - section lenth: 16
+2021-04-05 09:53:50,831 - INFO - url: http://localhost:8080/jpress/admin/setting/icons
+2021-04-05 09:53:50,843 - INFO - 选择图标类型: text-editor
+2021-04-05 09:53:50,885 - INFO - 选择图标类型: fa-underline

@@ -1,0 +1,3 @@
+2021-04-04 14:13:25,021 - INFO - 等待:分类 - 元素('xpath', "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")可见成功。
+2021-04-04 14:13:28,839 - INFO - section lenth: 0
+2021-04-04 14:13:28,846 - INFO - url: http://localhost:8080/jpress/admin/article/category

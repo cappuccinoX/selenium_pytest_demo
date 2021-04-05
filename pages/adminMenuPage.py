@@ -9,11 +9,11 @@ class AdminMenuPage(BasePage):
     category = (By.XPATH, "//*[@id='sidebar-menu']/li[4]/ul/li[3]/a")
 
     def __init__(self, driver):
-        self.driver = driver
+        super(AdminMenuPage, self).__init__(driver)
 
     def click_aritcle(self):
         self.click(*self.article)
 
     def click_category(self):
-        self.wait_ele_visiable(*self.category, "分类", 3)
+        self.wait_ele_visiable(self.category, "分类", 3)
         self.click(*self.category)

@@ -44,19 +44,9 @@ class TestConArticles():
         print(self.driver.get_cookies())
 
     
-    # TODO 改为固件
-    def login(self):
-        self.user_login_page.goto_login_page()
-        WebDriverWait(self.driver, 3).until(EC.title_is("登录到用户中心"))
-        self.user_login_page.input_user("admin")
-        self.user_login_page.input_pwd("123456")
-        self.user_login_page.click_login_btn()
-
-
     # @pytest.mark.skip()
     @allure.story("保存并投稿")
     def test_add_articles(self):
-        # self.login()
         self.driver.get("http://localhost:8080/jpress/ucenter")
         self.menu.wait_ele_visiable(self.menu.my_articles, "我的文章")
         self.menu.click_menu("my_articles")

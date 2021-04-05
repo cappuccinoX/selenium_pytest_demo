@@ -6,6 +6,7 @@ from common.constant import chrome_capabilities
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from common.constant import ADMIN_TOKEN
+import os
 
 @pytest.fixture(name = "token")
 def get_token():
@@ -13,8 +14,21 @@ def get_token():
 
 @pytest.fixture(name = "admin_token", scope = "module")
 def get_admin_token():
-    print("\nfixture")
-    ADMIN_TOKEN["value"] = "ZjYyYzQxZThjN2NkM2JjOTUxNWFlNDlhMmE2MzMxY2EjMTYxNzA3NzIwMTQ0MSMxNzI4MDAjTVE9PQ=="
+    ADMIN_TOKEN["value"] = "YjMwZGY0MjYzMTM5YmIxZTNkMjEzMWYyN2E0N2MyZjMjMTYxNzU4Nzc3MDczOSMxNzI4MDAjTVE9PQ=="
+
+# 创建文章分类时, 将分类标题写入临时文件, 便于删除分类用例通过临时文件找到标题并删除
+@pytest.fixture(scope="class")
+def tmp_title_file(tmpdir_factory):
+    print("\n======start to create temp file======")
+    tmp_dir = tmpdir_factory.mktemp("tmp")
+    tmp_file = tmp_dir.join("tmp_title.txt")
+    print("\n======success to create temp file======")
+    yield tmp_file
+    print("\n======delete tmp_title.txt======")
+
+@pytest.fixture(scope="class")
+def test_fixture():
+    print("\nlalallalalala.......")
 
 @pytest.fixture(scope="class", name="login")
 def login():
@@ -31,3 +45,4 @@ def login():
     driver.add_cookie({"age": 19})
     return driver
 
+# if __name__ == "__main__":

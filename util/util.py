@@ -11,7 +11,6 @@ import logging
 import datetime
 import logging.handlers
 
-
 def get_random_str():
     rand_str = ''.join(random.sample(string.ascii_letters + string.digits, 8))
     return rand_str
@@ -84,27 +83,6 @@ def get_code():
     text = res.json()['showapi_res_body']
     code = text['Result']
     return code
-
-def get_logger():
-    alllog_file = os.path.abspath("log") + '/all.log'
-    errlog_file = os.path.abspath("log") + '/error.log'
-    logger = logging.getLogger("mylogger")
-    # 设置日志记录的最低级别
-    logger.setLevel(logging.DEBUG)
-    rf_handler = logging.handlers.TimedRotatingFileHandler(
-        alllog_file,
-        when = 'midnight',
-        interval=1,
-        backupCount=7,
-        atTime = datetime.time(0, 0, 0, 0)
-    )
-    rf_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
-    f_handler = logging.FileHandler(errlog_file)
-    f_handler.setLevel(logging.ERROR)
-    f_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"))
-    logger.addHandler(rf_handler)
-    logger.addHandler(f_handler)
-    return logger
 
     
 
