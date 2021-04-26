@@ -10,3 +10,5 @@
     4. jpress 解压缩至apache-tomcat-xxxx webapp目录下，并将其重命名为jpress
     5. 切换至apache-tomcat-xxxx目录，启动bin目录下startup.sh文件(macOS, sh ./bin/startup.sh)
     6. 打开localhost:8080/jpress, 第一次登录需配置数据库
+ 
+ 三. todo 滑动 登录
