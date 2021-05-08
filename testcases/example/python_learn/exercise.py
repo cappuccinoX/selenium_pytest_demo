@@ -178,5 +178,43 @@ def test_by_name_and_grade():
         print("测试失败")
 
 
+# 利用闭包返回一个计数器函数，每次调用它返回递增整数
+def createCounter():
+    s = [0] 
+    def counter():
+        s[0] = s[0]+1
+        return s[0]
+    return counter
+
+# 请设计一个decorator，它可作用于任何函数上，并打印该函数的执行时间
+def metric(fn):
+    print('%s executed in %s ms' % (fn.__name__, 10.24))
+    return fn
+
 if __name__ == "__main__":
-    test_by_name_and_grade()
+    # def now():
+    #     print("2021")
+
+    # def log(func):
+    #     def wrapper(*args, **kw):
+    #         print('call %s():' % func.__name__)
+    #         return func(*args, **kw)
+    #     return wrapper
+
+    import time, functools
+    def log(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kw):
+            t1=time.time()
+            r=func(*args, **kw)
+            print('%s excute in %s ms' %(func.__name__, 1000*(time.time()-t1)))
+            return r
+        return wrapper
+
+
+    @log
+    def fast(x, y):
+        time.sleep(3)
+        return x*y
+
+    fast(3, 5)
