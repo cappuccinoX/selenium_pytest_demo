@@ -187,34 +187,63 @@ def createCounter():
     return counter
 
 # 请设计一个decorator，它可作用于任何函数上，并打印该函数的执行时间
-def metric(fn):
-    print('%s executed in %s ms' % (fn.__name__, 10.24))
-    return fn
+import time, functools
+def log(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kw):
+        t1=time.time()
+        r=func(*args, **kw)
+        print('%s excute in %s ms' %(func.__name__, 1000*(time.time()-t1)))
+        return r
+    return wrapper
+
+@log
+def fast(x, y):
+    time.sleep(3)
+    return x*y
+
+# 请利用@property给一个Screen对象加上width和height属性，以及一个只读属性resolution
+class Screen(object):
+    
+    @property
+    def width(self):
+        return self.__width
+
+    @width.setter
+    def width(self, width):
+        self.__width = width
+
+    @property
+    def height(self):
+        return self.__height
+    
+    @height.setter
+    def height(self, height):
+        self.__height = height
+    
+    @property
+    def resolution(self):
+        return self.__height * self.__width
+
+def test_screen():
+    s = Screen()
+    s.width = 1024
+    s.height = 768
+    print('resolution =', s.resolution)
+    if s.resolution == 786432:
+        print('测试通过!')
+    else:
+        print('测试失败!')
+
+
+# python 冒泡排序 [10, 17, 50, 7, 30, 24, 27, 45, 15, 5, 36, 21]
+def bubble_sort(arr):
+    for i in range(1, len(arr)):
+        for j in range(len(arr) - i):
+            if arr[j] > arr[j + 1]:
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+    return arr
 
 if __name__ == "__main__":
-    # def now():
-    #     print("2021")
-
-    # def log(func):
-    #     def wrapper(*args, **kw):
-    #         print('call %s():' % func.__name__)
-    #         return func(*args, **kw)
-    #     return wrapper
-
-    import time, functools
-    def log(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kw):
-            t1=time.time()
-            r=func(*args, **kw)
-            print('%s excute in %s ms' %(func.__name__, 1000*(time.time()-t1)))
-            return r
-        return wrapper
-
-
-    @log
-    def fast(x, y):
-        time.sleep(3)
-        return x*y
-
-    fast(3, 5)
+    b = bubble_sort([10, 17, 50, 7, 30, 24, 27, 45, 15, 5, 36, 21])
+    print(b)
